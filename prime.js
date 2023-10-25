@@ -1,3 +1,7 @@
+for (let i =0;i<=num;i++){
+    console.log(num);
+}
+
 function check_prime(num){
     let count = 0;
     for (let i =0; i<=num;i++){
